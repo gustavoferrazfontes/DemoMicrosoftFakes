@@ -1,0 +1,6 @@
+E:\GitHub\DemoTests\TestClassesConcretas\TestClassesConcretas\bin\Debug\TestClassesConcretas.exe.config
+E:\GitHub\DemoTests\TestClassesConcretas\TestClassesConcretas\bin\Debug\TestClassesConcretas.exe
+E:\GitHub\DemoTests\TestClassesConcretas\TestClassesConcretas\bin\Debug\TestClassesConcretas.pdb
+E:\GitHub\DemoTests\TestClassesConcretas\TestClassesConcretas\obj\Debug\TestClassesConcretas.csprojResolveAssemblyReference.cache
+E:\GitHub\DemoTests\TestClassesConcretas\TestClassesConcretas\obj\Debug\TestClassesConcretas.exe
+E:\GitHub\DemoTests\TestClassesConcretas\TestClassesConcretas\obj\Debug\TestClassesConcretas.pdb

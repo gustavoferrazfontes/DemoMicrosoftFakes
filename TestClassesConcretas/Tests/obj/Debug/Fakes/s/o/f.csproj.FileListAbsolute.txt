@@ -1,0 +1,14 @@
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\NBehave.Spec.NUnit.dll
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\nunit.framework.dll
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\Rhino.Mocks.dll
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\TestClassesConcretas.exe
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\nunit.framework.xml
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\Rhino.Mocks.xml
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\b\TestClassesConcretas.pdb
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
+E:\GitHub\DemoTests\TestClassesConcretas\Tests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb
